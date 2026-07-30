@@ -34,9 +34,9 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-![pro0072006's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pro0072006&theme=dark&hide_border=false)
+![santi-mz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=santi-mz&theme=dark&hide_border=false)
 
-![pro0072006's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pro0072006&theme=dark&show_icons=true&hide_border=false&layout=compact)
+![santi-mz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santi-mz&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
