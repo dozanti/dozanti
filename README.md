@@ -34,9 +34,9 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-![santi-mz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=santi-mz&theme=dark&hide_border=false)
+![dozanti's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dozanti&theme=dark&hide_border=false)
 
-![santi-mz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santi-mz&theme=dark&show_icons=true&hide_border=false&layout=compact)
+![dozanti's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dozanti&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
@@ -49,4 +49,4 @@
 
 ---
 
-Credits: [Santi-mz](https://github.com/santi-mz)
+Credits: [Dozanti](https://github.com/dozanti)
