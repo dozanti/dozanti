@@ -7,7 +7,7 @@
 
 ### 👨🏻‍💻 &nbsp;Information
 
-- 👨‍💻 Web page -> [https://santimendoza.com/](https://santimendoza.com/)
+- 👨‍💻 Web page -> [https://dozanti.com/](https://dozanti.com/)
 
 - 📫 How to reach me **santiagoyasno@gmail.com**
 
@@ -41,7 +41,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/david-santiago-mendoza-yasno/" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/dozanti/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/-David%20Santiago%20Mendoza%20Yasno-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <a href="mailto:santiagoyasno@gmail.com"><img src="https://img.shields.io/badge/-santiagoyasno@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
