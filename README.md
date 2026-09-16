@@ -3,7 +3,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding" width="700"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pro0072006&label=Profile%20views&color=0e75b6&style=flat" alt="pro0072006" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dozanti&label=Profile%20views&color=0e75b6&style=flat" alt="dozanti" /> </p>
 
 ### 👨🏻‍💻 &nbsp;Information
 
@@ -13,7 +13,9 @@
 
 ### 🛠 &nbsp;Tech Stack
 
+![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -27,16 +29,10 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat&logo=microsoft-sql-server)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)&nbsp;
-![Xamarin](https://img.shields.io/badge/-Xamarin-05122A?style=flat&logo=xamarin)&nbsp;
-
-### ⚙️ &nbsp;GitHub Analytics
-
-![dozanti's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dozanti&theme=dark&hide_border=false)
-
-![dozanti's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dozanti&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
